@@ -1,0 +1,1 @@
+copy from https://www.katacoda.com/courses/kubernetes/guestbook
